@@ -46,5 +46,5 @@ Developing robust applications that interact with the backend part of Full Stack
 
 
 
-<a href="https://github.com/vishalbaste/github-readme-activity-graph"><img alt="vishalbaste's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalbaste&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/vishalbaste/github-readme-activity-graph"><img alt="vishalbaste's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalbaste&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 <br/>
